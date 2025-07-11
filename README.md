@@ -1,4 +1,4 @@
-# Hey there, I'm Pouyan! 👋  
+# Hey there, I'm Pooyan! 👋  
 
 🚀 **Full-Stack Developer | Game Creator | AI Enthusiast**  
 🌍 Based in Iran  
