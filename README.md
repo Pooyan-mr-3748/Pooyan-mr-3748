@@ -28,8 +28,8 @@
 🤖 **AI Projects** - Exploring machine learning basics  
 
 ### **📈 GitHub Stats**  
-![My Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Pooyan-mr-3748&show_icons=true&theme=radical&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pooyan-mr-3748&layout=compact&theme=dark)
 
 ---
 
